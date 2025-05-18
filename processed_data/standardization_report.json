@@ -1,0 +1,23 @@
+{
+  "total_posts": 2,
+  "drugs": {
+    "total": 2,
+    "standardized": 0,
+    "rate": 0.0
+  },
+  "adverse_events": {
+    "total": 2,
+    "standardized": 0,
+    "rate": 0.0
+  },
+  "symptoms_diseases": {
+    "total": 2,
+    "standardized": 0,
+    "rate": 0.0
+  },
+  "overall": {
+    "total": 6,
+    "standardized": 0,
+    "rate": 0.0
+  }
+}

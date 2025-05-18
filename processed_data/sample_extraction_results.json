@@ -1,0 +1,48 @@
+[
+  {
+    "id": "PENNSAID.1",
+    "entities": {
+      "drugs": [
+        {
+          "name": "Voltaren",
+          "span": "Voltaren"
+        }
+      ],
+      "adverse_events": [
+        {
+          "description": "gastro effects",
+          "span": "gastro effects"
+        }
+      ],
+      "symptoms_diseases": [
+        {
+          "name": "joint pain",
+          "span": "joint pain"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SOLARAZE.2",
+    "entities": {
+      "drugs": [
+        {
+          "name": "solaraze",
+          "span": "solaraze"
+        }
+      ],
+      "adverse_events": [
+        {
+          "description": "hard to breathe, lungs feel heavy, general feeling of sadness, tiredness, wanting to quit everything and give up (soooooo not my personality)",
+          "span": "hard to breathe, lungs feel heavy, general feeling of sadness, tiredness, wanting to quit everything and give up (soooooo not my personality)"
+        }
+      ],
+      "symptoms_diseases": [
+        {
+          "name": "eczema",
+          "span": "eczema"
+        }
+      ]
+    }
+  }
+]
